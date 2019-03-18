@@ -42,7 +42,8 @@ body {
 
 .grid .grid__hero-item {
   grid-column: span 2;
-  background-image: url(https://i.pinimg.com/564x/b4/14/d4/b414d41411c517c0ed1023eab3e8e4e3.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.5)),
+    url(https://i.pinimg.com/564x/b4/14/d4/b414d41411c517c0ed1023eab3e8e4e3.jpg);
   background-size: cover;
   background-position: center center;
   color: white;
