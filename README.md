@@ -1,3 +1,3 @@
 # newsapp
-html, css practice
+html, css practice project
 Thank you for Nicolas from Nomad Coders
